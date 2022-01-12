@@ -32,14 +32,16 @@ Users should be able to:
 
 ### Screenshots
 
-![]()
+![](https://github.com/dusvimarin/FEM-ping-coming-soon-page-master/blob/main/screenshots/desktop.png)
 
-![]()
+![](https://github.com/dusvimarin/FEM-ping-coming-soon-page-master/blob/main/screenshots/desktop%20active.png)
+
+![](https://github.com/dusvimarin/FEM-ping-coming-soon-page-master/blob/main/screenshots/mobile.png)
 
 
 ### Links
 
-[My Solution]()
+[My Solution](https://dusvimarin.github.io/FEM-ping-coming-soon-page-master/)
 
 
 ## My process
