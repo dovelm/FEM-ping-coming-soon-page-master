@@ -38,7 +38,6 @@ Users should be able to:
 
 ![](https://github.com/dusvimarin/FEM-ping-coming-soon-page-master/blob/main/screenshots/mobile.png)
 
-
 ### Links
 
 [My Solution](https://dusvimarin.github.io/FEM-ping-coming-soon-page-master/)
