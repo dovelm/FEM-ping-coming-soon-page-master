@@ -32,15 +32,15 @@ Users should be able to:
 
 ### Screenshots
 
-![](https://github.com/dusvimarin/FEM-ping-coming-soon-page-master/blob/main/screenshots/desktop.png)
+![](https://github.com/dovelym/FEM-ping-coming-soon-page-master/blob/main/screenshots/desktop.png)
 
-![](https://github.com/dusvimarin/FEM-ping-coming-soon-page-master/blob/main/screenshots/desktop%20active.png)
+![](https://github.com/dovelym/FEM-ping-coming-soon-page-master/blob/main/screenshots/desktop%20active.png)
 
-![](https://github.com/dusvimarin/FEM-ping-coming-soon-page-master/blob/main/screenshots/mobile.png)
+![](https://github.com/dovelym/FEM-ping-coming-soon-page-master/blob/main/screenshots/mobile.png)
 
 ### Links
 
-[My Solution](https://dusvimarin.github.io/FEM-ping-coming-soon-page-master/)
+[My Solution](https://dovelym.github.io/FEM-ping-coming-soon-page-master/)
 
 
 ## My process
@@ -67,5 +67,5 @@ I learned to use elements flexbox.
 - Google chome/tools/development tools
 
 ## Author
-[@dusvimarin](https://github.com/dusvimarin)
+[@dusvy_m](https://github.com/dovelym)
 
